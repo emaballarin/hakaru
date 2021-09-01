@@ -13,3 +13,4 @@ foo.c
 Session.vim
 *#
 .DS_Store
+stack.yaml.lock
